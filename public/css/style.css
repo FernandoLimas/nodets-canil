@@ -1,5 +1,5 @@
 :root {
-    --pagebg: #FFF;
+    --pagebg: rgb(255, 223, 223);
     --main: #102581;
     --bglink: rgba(0, 0, 0, 0.3);
     --darkbg: #FFF;
